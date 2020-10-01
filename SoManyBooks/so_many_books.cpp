@@ -20,7 +20,7 @@ struct entry{
 bool cmp(entry &e1 ,entry &e2){
 	return e1.signup<e2.signup;
 }
-signed main(){
+int32_t main(){
     fast;
    	freopen("e_so_many_books.txt", "r", stdin);
    	freopen("5.txt", "w", stdout);
